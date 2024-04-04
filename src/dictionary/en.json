@@ -1,0 +1,10 @@
+{
+  "blockchain": "Blockchain",
+  "compareWith": "Compare With",
+  "dateRange": "Date Range",
+  "selectDateRange": "Select Date Range",
+  "lastMonth": "Last Month",
+  "last2Weeks": "Last 2 Weeks",
+  "lastWeek": "Last Week",
+  "chainNameRequired": "Blockchain name must be at least 1 character."
+}
